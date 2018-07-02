@@ -19,11 +19,15 @@ This section lists the minimum hardware and software requirements needed to deve
 ###### Hardware Interface:
 
 •	8 GB RAM
+
 •	i5 processor
+
 •	GPU
   
 ###### Software Interface:
 
 •	Operating System		          : Windows
+
 •	IDE				                  : Pycharm
-•	Machine Learning Libraries    : Scikit, Matplotlib, 
+
+•	Machine Learning Libraries    : Scikit, Matplotlib 
