@@ -35,10 +35,17 @@ This section lists the minimum hardware and software requirements needed to deve
 ## Bibliography
 
 •	Natural Language Processing with Python– Analyzing Text with the Natural Language Toolkit by Steven Bird, Ewan Klein, and Edward Loper.
+
 •	Software Engineering, Seventh Edition, Ian Somerville.
+
 •	Hands-On Machine Learning with Scikit-Learn and Tensor Flow: Concepts, Tools, and Techniques to Build Intelligent Systems by Aurelian Geron.
+
 •	Machine Learning with Scikit learn Part One | SciPy 2017 Tutorial | Andreas Mueller & Alexandre Gram at youtube.com.
+
 •	Mathematics for machine learning Coursera.org.
+
 •	NLTK 3.3 documentation www.nltk.org.
-•	7th International Conference on Communication, Computing and Virtualization 2016 Intelligent Predictive String Search Algorithm by Dipendra Gurunga*, Udit Kr. Chakrabortyb, Pratikshya Sharmac, Sikkim Manipal Institute of Technology, Majhitar, Sikkim, India. (Read this paper)
+
+•	7th International Conference on Communication, Computing and Virtualization 2016 Intelligent Predictive String Search Algorithm by Dipendra Gurunga*, Udit Kr. Chakrabortyb, Pratikshya Sharmac, Sikkim Manipal Institute of Technology, Majhitar, Sikkim, India.
+
 
