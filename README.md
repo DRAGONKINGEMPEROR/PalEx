@@ -39,6 +39,7 @@ This section lists the minimum hardware and software requirements needed to deve
 **Python**
 
 Python is an interpreted high-level programming language for general-purpose programming. Created by Guido van Rossum and first released in 1991, Python has a design philosophy that emphasizes code readability, notably using significant whitespace. It provides constructs that enable clear programming on both small and large scales. Python features a dynamic type system and automatic memory management. It supports multiple programming paradigms, including object-oriented, imperative, functional and procedural, and has a large and comprehensive standard library. 
+
 **Scikit-learn**
 
 Scikit-learn is a free software machine learning library for the Python programming language. It features various classification, regression and clustering algorithms including support vector machines, random forests, gradient boosting, k-means and DBSCAN, and is designed to interoperate with the Python numerical and scientific libraries NumPy and SciPy.
@@ -56,6 +57,7 @@ The Natural Language Toolkit, or more commonly NLTK, is a suite of libraries and
 wxPython is a wrapper for the cross-platform GUI API (often referred to as a "toolkit") wxWidgets (which is written in C++) for the Python programming language. It is one of the alternatives to Tkinter, which is bundled with Python. It is implemented as a Python extension module (native code). Other popular alternatives are PyGTK, its successor PyGObject, and PyQt. Like wxWidgets, wxPython is free software. 
 
 **NumPy**
+
  NumPy is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.
 
 
